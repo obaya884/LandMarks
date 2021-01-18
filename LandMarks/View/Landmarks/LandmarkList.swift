@@ -29,8 +29,8 @@ struct LandmarkList: View {
                     }
                 }
             }
+            .navigationTitle("Landmarks")
         }
-        .navigationTitle("Landmarks")
     }
 }
 
